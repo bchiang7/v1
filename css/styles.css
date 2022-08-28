@@ -494,7 +494,7 @@ a.active {
 /* ======= INTRODUCTION ======= */
 
 #intro {
-    background: url(../img/mountain-dusk.jpg);
+    background: url(../img/water-view.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -780,8 +780,7 @@ a.fa.fa-angle-down:focus {
     -moz-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    display;
-    block;
+    display: block;
     color: #FFF;
     font-size: 55px;
     text-align: center;
