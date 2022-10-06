@@ -237,7 +237,7 @@ p {
 }
 
 a {
-    color: #00009C;
+    color: #235789;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -775,12 +775,12 @@ a.fa.fa-angle-down:focus {
     height: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #00009C;
+    background: #221E22;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    display: block;
+    display:block;
     color: #FFF;
     font-size: 55px;
     text-align: center;
